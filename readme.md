@@ -13,7 +13,7 @@
 - **Nombre:** `wRAR-86.exe`  
 - **Tamaño:** 1.24 MB  
 - **Fecha:** 17-05-2024  
-- **Servidor:** KrSolution
+- **Servidor:** GitHub
 
 ### Hashes
 
